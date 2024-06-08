@@ -136,6 +136,3 @@ print("Cinta final:", final_tape)
 - **Ejecutar la Máquina**: Crea una instancia de la máquina con una cinta inicial y la ejecuta hasta alcanzar un estado final.
 """
 
-"""
-Este es un ejemplo básico de cómo simular una máquina de Turing en Python. Puedes expandir este código para incluir más estados, diferentes símbolos, y reglas de transición más complejas según sea necesario.
-"""
