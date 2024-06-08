@@ -1,4 +1,4 @@
-# Turing Machine Simulation
+# MÁQUINA DE TURING
 
 ## Simulación de una Máquina de Turing en Python
 
